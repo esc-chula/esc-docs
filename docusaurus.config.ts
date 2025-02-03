@@ -31,11 +31,11 @@ const config: Config = {
           lastVersion: 'current',
           versions: {
             current: {
-              label: 'ESC 68',
+              label: 'ESC68',
               path: '/',
             },
             'esc-67': {
-              label: 'ESC 67',
+              label: 'ESC67',
               path: 'esc-67',
             },
           },
