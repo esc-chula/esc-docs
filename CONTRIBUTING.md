@@ -30,7 +30,7 @@ When you want to version the current docs eg. transitioning to a new ESC year (e
 
 2. Update docusaurus.config.ts to reflect the current version:
 
-   In this example, if you are transitioning from ESC68 to ESC69, you should update the docusaurus.config.ts to:
+   In this example, if you are transitioning from ESC68 to ESC69, you should update the docusaurus.config.ts
 
    from:
    ```ts
